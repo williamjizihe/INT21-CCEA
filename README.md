@@ -1,6 +1,6 @@
 # ENSTA Paris INT21 Project
 
-This repository is for the project of INT21 course at ENSTA Paris. It includes the implementation of four distinct algorithms aimed at solving a specific optimization problem: maximizing area coverage with a minimum number of lamps.
+This repository is for the project of INT21 course at ENSTA Paris. It includes the implementation of four distinct evolutionary algorithms aimed at solving a specific optimization problem: maximizing area coverage with a minimum number of lamps.
 
 Algorithms Used:
 
