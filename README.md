@@ -18,3 +18,8 @@ Algorithms Used:
 - inspyred==1.0.1
 - matplotlib==3.4.2
 - numpy==1.21.6
+```
+
+## References
+
+- [1] [Tonda, A., Lutton, E., Squillero, G. (2011). Lamps: A Test Problem for Cooperative Coevolution. In: Pelta, D.A., Krasnogor, N., Dumitrescu, D., Chira, C., Lung, R. (eds) Nature Inspired Cooperative Strategies for Optimization (NICSO 2011). Studies in Computational Intelligence, vol 387. Springer, Berlin, Heidelberg.](https://doi.org/10.1007/978-3-642-24094-2_7)
